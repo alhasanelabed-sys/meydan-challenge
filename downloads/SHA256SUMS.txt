@@ -1,0 +1,3 @@
+1f90cc8c202b417ec837852324c39e719b26863fce3593deeaa9cd6f4eb019ff  meydan-android.apk
+7a8537e02416434eebf0678d7cbfe9b0b87f972cea4a5ec2c0953288fa29f74e  meydan-windows-portable.zip
+2ef34b2824b53e507c1b19c12628b9a3b8ec567db34bbace5bdd672026c6b241  meydan-demo-questions.json

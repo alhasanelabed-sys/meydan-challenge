@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "note": "إصدار تجريبي. البلوتوث مضمّن ولم يُختبر على أجهزة فعلية بعد. الإنترنت يحتاج إعداد خادم ترحيل. ملفات التنزيل موقّعة/معبأة ومرفقة مع بصمات SHA-256.",
+  "android": {
+    "url": "downloads/meydan-android.apk",
+    "filename": "meydan-android.apk",
+    "bytes": 234780
+  },
+  "windows": {
+    "url": "downloads/meydan-windows-portable.zip",
+    "filename": "meydan-windows-portable.zip",
+    "bytes": 6752432
+  }
+}

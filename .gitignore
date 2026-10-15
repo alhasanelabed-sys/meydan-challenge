@@ -1,0 +1,9 @@
+node_modules/
+.gradle/
+**/build/
+**/bin/
+**/obj/
+local.properties
+*.keystore
+.superpowers/
+artifacts/
